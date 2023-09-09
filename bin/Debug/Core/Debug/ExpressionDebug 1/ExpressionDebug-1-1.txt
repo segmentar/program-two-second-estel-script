@@ -1,0 +1,13 @@
+Expression :: ExpressionSequence {
+.debug
+	~01 stringIdentity: root
+	~02 objectIdentity: . . .
+	~03 arrayList: . . . <0>
+	~04 debug: True
+}
+
+~10 objectIdentity:
+
+
+~20 arrayList:
+

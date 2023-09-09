@@ -1,0 +1,20 @@
+Expression :: {
+.compress
+	~01 IsDebug: True
+.compress-raw
+	~02 StringIdentity: root
+	~03 ObjectIdentity: . . .
+	~04 ArrayList: . . . <1>
+}
+
+~10 ObjectIdentity:
+
+
+~20 ArrayList:
+<hidden>
+
+~30 ForgeExpressionString:
+> root
+>> B
+>>> little-endian-signed-integer-bit-8
+

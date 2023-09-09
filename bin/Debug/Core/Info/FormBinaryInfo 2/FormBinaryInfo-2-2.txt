@@ -1,0 +1,34 @@
+FormBinary :: FormBinaryData {
+.data
+	~01 File: C:\Users\todor\Desktop\Origin Folder\program-two-second-estel-script\bin\Debug\Test\Form (1).CoolExtension_True_1252_512_128
+	~02 Stream: System.IO.FileStream
+	~03 EndianFormat: True
+	~04 StringCodec: 1252
+	~05 ChunkSize: 512
+	~06 StartBoundary: 128
+	~07 HeaderAddress: 128
+	~08 ContentAddress: 2176
+	~09 LocalLineAddress: 2688
+	~10 GlobalLineAddress: 3200
+	~11 IsDebug: True
+}
+
+~10 ForgeHeaderTuple:
+
+
+
+mySecondForm 
+ 
+
+~20 ForgeContent:
+
+, tabulation program-0 ordinal-2 little-endian-signed-integer-bit-8 A: 1
+
+
+~30 ForgeLocalLineTuple:
+0
+
+
+~40 ForgeGlobalLineTuple:
+1
+tabulation program-0 ordinal-2 little-endian-signed-integer-bit-8 A: 1

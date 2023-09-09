@@ -1,0 +1,22 @@
+
+	O META
+
+	O TYPE
+
+	O LINK
+
+sequence FormBinary
+
+	>Data
+	<<FormBinaryData.cs
+
+	>Prototype
+	<<FormBinaryPrototype.cs
+
+	<FormBinary.cs
+
+	o /object\OBJECT/FormBinaryObject.cs\
+
+	o /object\OBJECT/FormBinaryDataObject.cs\
+
+end sequence 

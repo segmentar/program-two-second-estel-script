@@ -1,0 +1,16 @@
+C:\Users\todor\source\repos\program-two-second-estel-script\bin\Debug\program-two-second-estel-script.exe.config
+C:\Users\todor\source\repos\program-two-second-estel-script\bin\Debug\program-two-second-estel-script.exe
+C:\Users\todor\source\repos\program-two-second-estel-script\bin\Debug\program-two-second-estel-script.pdb
+C:\Users\todor\source\repos\program-two-second-estel-script\obj\Debug\program-two-second-estel-script.csproj.AssemblyReference.cache
+C:\Users\todor\source\repos\program-two-second-estel-script\obj\Debug\program-two-second-estel-script.csproj.SuggestedBindingRedirects.cache
+C:\Users\todor\source\repos\program-two-second-estel-script\obj\Debug\program-two-second-estel-script.csproj.CoreCompileInputs.cache
+C:\Users\todor\source\repos\program-two-second-estel-script\obj\Debug\program-two-second-estel-script.exe
+C:\Users\todor\source\repos\program-two-second-estel-script\obj\Debug\program-two-second-estel-script.pdb
+C:\Users\todor\Desktop\Origin Folder\program-two-second-estel-script\bin\Debug\program-two-second-estel-script.exe.config
+C:\Users\todor\Desktop\Origin Folder\program-two-second-estel-script\bin\Debug\program-two-second-estel-script.exe
+C:\Users\todor\Desktop\Origin Folder\program-two-second-estel-script\bin\Debug\program-two-second-estel-script.pdb
+C:\Users\todor\Desktop\Origin Folder\program-two-second-estel-script\obj\Debug\program-two-second-estel-script.csproj.AssemblyReference.cache
+C:\Users\todor\Desktop\Origin Folder\program-two-second-estel-script\obj\Debug\program-two-second-estel-script.csproj.SuggestedBindingRedirects.cache
+C:\Users\todor\Desktop\Origin Folder\program-two-second-estel-script\obj\Debug\program-two-second-estel-script.csproj.CoreCompileInputs.cache
+C:\Users\todor\Desktop\Origin Folder\program-two-second-estel-script\obj\Debug\program-two-second-estel-script.exe
+C:\Users\todor\Desktop\Origin Folder\program-two-second-estel-script\obj\Debug\program-two-second-estel-script.pdb

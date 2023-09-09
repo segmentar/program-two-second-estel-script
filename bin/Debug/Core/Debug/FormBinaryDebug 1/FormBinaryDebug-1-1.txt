@@ -1,0 +1,5 @@
+FormBinary :: FormBinarySequence {
+.debug
+	~01 file: C:\Users\todor\Desktop\Origin Folder\program-two-second-estel-script\bin\Debug\Test\Form (0).CoolExtension_True_1252_512_128
+	~02 debug: True
+}

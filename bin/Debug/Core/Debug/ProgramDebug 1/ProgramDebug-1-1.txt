@@ -1,0 +1,4 @@
+Program :: ProgramSequence {
+.debug
+	~01 debug: True
+}
